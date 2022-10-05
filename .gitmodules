@@ -1,6 +1,7 @@
 [submodule "lnpos"]
 	path = lnpos
 	url = https://github.com/motorina0/lnpos
+	branch = serial_config
 [submodule "hardware-wallet"]
 	path = hardware-wallet
 	url = https://github.com/lnbits/hardware-wallet
