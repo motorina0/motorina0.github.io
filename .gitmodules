@@ -5,3 +5,7 @@
 [submodule "hardware-wallet"]
 	path = hardware-wallet
 	url = https://github.com/lnbits/hardware-wallet
+[submodule "bitcoinswitch"]
+	path = bitcoinswitch
+	url = https://github.com/lnbits/bitcoinswitch
+	branch = webserial
