@@ -1,10 +1,10 @@
 [submodule "hardware-wallet"]
 	path = hardware-wallet
 	url = https://github.com/lnbits/hardware-wallet
-[submodule "bitcoinswitch"]
-	path = bitcoinswitch
-	url = https://github.com/lnbits/bitcoinswitch
-	branch = webserial
 [submodule "lnpos"]
 	path = lnpos
 	url = https://github.com/lnbits/lnpos
+[submodule "bitcoinSwitch"]
+	path = bitcoinSwitch
+	url = https://github.com/motorina0/bitcoinSwitch.git
+	branch = fix_download_from_device
