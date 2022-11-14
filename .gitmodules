@@ -7,4 +7,3 @@
 [submodule "bitcoinSwitch"]
 	path = bitcoinSwitch
 	url = https://github.com/motorina0/bitcoinSwitch.git
-	branch = fix_download_from_device
