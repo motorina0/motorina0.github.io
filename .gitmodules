@@ -7,3 +7,6 @@
 [submodule "bitcoinSwitch"]
 	path = bitcoinSwitch
 	url = https://github.com/motorina0/bitcoinSwitch.git
+[submodule "nostr-market-app"]
+	path = nostr-market-app
+	url = https://github.com/motorina0/nostr-market-app.git
