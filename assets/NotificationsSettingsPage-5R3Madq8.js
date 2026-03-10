@@ -1,0 +1,1 @@
+import{S as t}from"./SettingsDetailLayout-CCo7bub5.js";import{d as o,o as i,b as e}from"./index-DQDtt6zm.js";import"./use-quasar-BRsG_z0v.js";import"./uiErrorHandler-BKv2OOSl.js";const f=o({__name:"NotificationsSettingsPage",setup(a){return(n,s)=>(i(),e(t,{title:"Notifications",icon:"notifications"}))}});export{f as default};

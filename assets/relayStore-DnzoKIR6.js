@@ -1,0 +1,1 @@
+import{aw as s}from"./index-DQDtt6zm.js";import{f as e}from"./nostrStore-CddcvBSo.js";const o=["wss://cache2.primal.net/v1","wss://relay.damus.io","wss://nostr.mom","wss://nostr.wine","wss://nostr.bitcoiner.social"],a=s("relayStore",e({storageKey:"relays",defaultRelays:o}));export{o as D,a as u};

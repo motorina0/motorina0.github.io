@@ -1,0 +1,1 @@
+import{S as e}from"./SettingsDetailLayout-CCo7bub5.js";import{d as t,o as a,b as o}from"./index-DQDtt6zm.js";import"./use-quasar-BRsG_z0v.js";import"./uiErrorHandler-BKv2OOSl.js";const m=t({__name:"LanguageSettingsPage",setup(n){return(r,i)=>(a(),o(e,{title:"Language",icon:"language"}))}});export{m as default};
