@@ -1,0 +1,1 @@
+import{x as s,bj as o,bk as n}from"./index-BidYnIue.js";function u(){return s(o)}function a(e,r){if(e instanceof Error){const t=e.message.trim();if(t)return t}return r}function g(e,r,t="Something went wrong. Please try again."){console.error(e,r),n.create({type:"negative",message:a(r,t),position:"top-right",timeout:3200})}export{g as r,u};
