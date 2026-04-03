@@ -1,1 +1,0 @@
-import{bo as o}from"./index-DtvqgAvm.js";function i(e,r){if(e instanceof Error){const t=e.message.trim();if(t)return t}return r}function s(e,r,t="Something went wrong. Please try again."){console.error(e,r),o.create({type:"negative",message:i(r,t),position:"top-right",timeout:3200})}export{s as r};

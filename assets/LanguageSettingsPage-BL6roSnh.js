@@ -1,1 +1,0 @@
-import{S as e}from"./SettingsDetailLayout-DUdJOZXy.js";import{d as t,o as a,b as o}from"./index-DtvqgAvm.js";import"./uiErrorHandler-DtZtoglN.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const m=t({__name:"LanguageSettingsPage",setup(n){return(r,i)=>(a(),o(e,{title:"Language",icon:"language"}))}});export{m as default};
