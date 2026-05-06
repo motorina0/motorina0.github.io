@@ -1,1 +1,0 @@
-import{bW as o}from"./index-D2wlDsQv.js";function n(e,r){if(e instanceof Error){const t=e.message.trim();if(t)return t}return r}function i(e,r,t="Something went wrong. Please try again."){console.error(e,r),o.create({type:"negative",message:n(r,t),position:"top",timeout:3200})}export{i as r};
