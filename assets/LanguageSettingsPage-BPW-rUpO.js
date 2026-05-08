@@ -1,1 +1,0 @@
-import{S as e}from"./SettingsDetailLayout-D9Q6fLHh.js";import{d as t,o as a,b as o}from"./index-DT7Gngaa.js";import"./uiErrorHandler-BNRo8PXt.js";const p=t({__name:"LanguageSettingsPage",setup(n){return(r,s)=>(a(),o(e,{title:"Language",icon:"language"}))}});export{p as default};
